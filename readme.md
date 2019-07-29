@@ -1,0 +1,2 @@
+# Supplychain Project
+The purpose of this project is to create a series of smart contracts that would be used in a supply chain for coffee. There is also a UI aspect of the project that allows members of the supplychain to update the state of the product as it goes along the supply chain.
